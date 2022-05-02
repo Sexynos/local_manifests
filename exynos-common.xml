@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Samsung Exynos Common Manifest
+       * For use with PixelExperience / PixelExperience-based ROMs -->
+
+  <!--SLSI-->
+  <project name="Sexynos/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="twelve" remote="github"/>
+  <!--Hardware-->
+  <project name="Sexynos/android_hardware_samsung" path="hardware/samsung" revision="twelve" remote="github"/>
+
+</manifest>
