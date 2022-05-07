@@ -5,6 +5,6 @@
        * Optional extra repos -->
 
   <!--Lawnicons-->
-  <project name="ProtonAOSP/android_vendor_lawnicons" path="vendor/lawnicons" revision="sc-v2" remote="github"/>
+  <project name="pixeldust-project-caf/android_vendor_lawnicons" path="vendor/lawnicons" revision="sc-v2" remote="github"/>
 
 </manifest>
