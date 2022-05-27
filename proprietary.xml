@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Proprietary Repos
+       * Not for public use -->
+
+  <!--Device tree-->
+  <project name="Sexynos/android_hardware_eos" path="hardware/eos" revision="twelve" remote="github"/>
+
+</manifest>
