@@ -5,10 +5,10 @@
        * For use with PixelExperience / PixelExperience-based ROMs -->
 
   <!--Device tree-->
-  <project name="Sexynos/android_device_samsung_starlte" path="device/samsung/starlte" revision="twelve" remote="github"/>
+  <project name="Sexynos/android_device_samsung_starlte" path="device/samsung/starlte" revision="twelve-dot" remote="github"/>
   <project name="Sexynos/android_device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" revision="twelve-noencrypt" remote="github"/>
-  <project name="Sexynos/android_device_samsung_star2lte" path="device/samsung/star2lte" revision="twelve" remote="github"/>
-  <project name="Sexynos/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="twelve" remote="github"/>
+  <project name="Sexynos/android_device_samsung_star2lte" path="device/samsung/star2lte" revision="twelve-dot" remote="github"/>
+  <project name="Sexynos/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="twelve-dot" remote="github"/>
   <!--Blobs-->
   <project name="Sexynos/android_vendor_samsung_exynos9810-common" path="vendor/samsung/exynos9810-common" revision="twelve" remote="github"/>
   <project name="Sexynos/android_vendor_samsung_starlte" path="vendor/samsung/starlte" revision="twelve" remote="github"/>
