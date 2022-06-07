@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Samsung Exynos 7420 Device Manifest
+       * For use with PixelExperience / PixelExperience-based ROMs -->
+
+  <!--Exynos-->
+  <project name="Sexynos/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" revision="twelve" remote="github"/>
+  <!--Exynos5-->
+  <project name="Sexynos/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" revision="twelve" remote="github"/>
+  <!--Exynos7420-->
+  <project name="Sexynos/android_hardware_samsung_slsi_exynos7420" path="hardware/samsung_slsi/exynos7420" revision="twelve" remote="github"/>
+  <!--OPENMAX-->
+  <project name="Sexynos/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" revision="twelve" remote="github"/>
+
+</manifest>
