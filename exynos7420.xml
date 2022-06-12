@@ -11,6 +11,6 @@
   <project name="Sexynos/android_vendor_samsung_universal7420-common" path="vendor/samsung/universal7420-common" revision="twelve" remote="github"/>
   <project name="Sexynos/android_vendor_samsung_zerofltexx" path="vendor/samsung/zerofltexx" revision="twelve" remote="github"/>
   <!--Kernel-->
-  <project name="Sexynos/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" revision="twelve" remote="github"/>
+  <project name="Exynos7420/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" revision="lineage-18.1" remote="github"/>
 
 </manifest>
